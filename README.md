@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a developer with over 5 years of experience in the realm of software development, where I primarily worked with CRM systems. Throughout my journey, I've worked with a wide range of technologies, including C#, .Net, Xamarin, SQL, and JavaScript, along with their respective frameworks such as Vue.js and React Native. I also have knowledge of Flutter.<br><br>For the past 3+ years, I have been dedicated to mobile app development, specializing in Xamarin and React Native, and in crafting web solutions using React and Vue.js. My passion lies in continuous learning, always eager to explore new horizons and contribute to the success of others whenever possible.
+I am a developer with over 6 years of experience in the realm of software development, where I primarily worked with CRM systems. Throughout my journey, I've worked with a wide range of technologies, including C#, .Net, Xamarin, SQL, and JavaScript, along with their respective frameworks such as Vue.js and React Native. I also have knowledge of Flutter.<br><br>For the past 3+ years, I have been dedicated to mobile app development, specializing in Xamarin and React Native, and in crafting web solutions using React and Vue.js. My passion lies in continuous learning, always eager to explore new horizons and contribute to the success of others whenever possible.
 
 
 ## 🌐 Socials:
